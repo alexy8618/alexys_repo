@@ -1,0 +1,34 @@
+.page {
+    margin: 70px 30px;
+}
+
+.header {
+    color: white;
+    background-color: black;
+    padding: 2px;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+.id-list {
+    font-weight: bold;
+}
+
+img {
+    margin-bottom: 20px;
+}
+
+a:link, 
+a:visited {
+    color: rgba(0, 0, 255, 0.551);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgba(52, 226, 226, 0.746);
+    text-decoration: underline;
+}
+
+a:active {
+    color: red;
+}
